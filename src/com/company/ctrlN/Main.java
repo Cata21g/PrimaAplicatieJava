@@ -1,15 +1,12 @@
 package com.company.ctrlN;
 
 public class Main {
-    // Aceasta este metoda main
-    /*
-    comm
+    /**
+     * Metoda main este metoda apelata de catre masina virtuala java si care porneste o aplicatie java.
+     * @param args Acesta este un parametru.
+     * @author Catalin
      */
-    public static void main(/*args este parametrul metodei main*/String[]  args) {
-        /*Aici vrem sa afisam pe consola
-        // intelij mesajul de mai jos
-        Textul de aici face parte tot din commentariu
-        */
+    public static void main(String[]  args) {
             System.out.println("Invat limbajul Java si despre masina virtuala java!");
 
     }
